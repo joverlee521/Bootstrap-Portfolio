@@ -1,0 +1,73 @@
+body {
+    color: #777777;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    background-image: url("../images/subtle_white_feathers.png");
+}
+/* Customize Navbar */
+.nav-custom {
+    padding: 0;
+    background-color:#ffffff !important;
+    border-bottom: .2em solid #cccccc;
+}
+
+.brand-custom {
+    margin: 0;
+    padding: 1.3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff !important;
+    background-color: #4aaaa5;
+}
+
+.navbar-custom {
+    margin: 0;
+}
+
+.navbar-custom li {
+    border-right: .1em solid #cccccc;
+    padding: 0 1em;
+}
+
+.navbar-custom :last-child {
+    border-right: none;
+}
+/* End Custom Navbar */
+/* Custom Main Content */
+.content-custom {
+    background-color: #ffffff;
+    border: .2em solid #dddddd;
+    border-radius: 25px;
+}
+.title-custom {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px solid #dddddd;
+    color: #4aaaa5;
+}
+/* Custom Footer */
+.footer-custom {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #666666;
+    border-top: .4em solid #4aaaa5;
+}
+/* Custom Gallery */
+.image-custom {
+    position: absolute;
+    bottom: .5em;
+    width: 100%;
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;  
+}
+
+.button-custom {
+    background: #4aaaa5;
+    color: #ffffff;
+    border: 1px solid #4aaaa5;
+}
+
+.button-custom:hover {
+    background-color: #ffffff;
+    color: #4aaaa5;
+}
