@@ -30,7 +30,6 @@ body {
 .navbar-custom :last-child {
     border-right: none;
 }
-/* End Custom Navbar */
 /* Custom Main Content */
 .content-custom {
     background-color: #ffffff;
@@ -53,14 +52,19 @@ body {
 }
 /* Custom Gallery */
 .image-custom {
+    display: inline;
     position: absolute;
-    bottom: .5em;
+    top: 75%;
+    left: 0;
+    margin: 0;
+    padding-top: .3em;
     width: 100%;
+    height: 20%;
     background: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: normal;  
 }
-
+/* Custom Form */
 .button-custom {
     background: #4aaaa5;
     color: #ffffff;
