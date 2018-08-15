@@ -41,6 +41,10 @@ body {
     border-bottom: 2px solid #dddddd;
     color: #4aaaa5;
 }
+.profile-custom {
+    max-width: 50%;
+    height: auto;
+}
 /* Custom Footer */
 .footer-custom {
     position: absolute;
@@ -57,9 +61,8 @@ body {
     top: 75%;
     left: 0;
     margin: 0;
-    padding-top: .3em;
+    padding: 3%;
     width: 100%;
-    height: 20%;
     background: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: normal;  
