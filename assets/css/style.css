@@ -55,6 +55,16 @@ body {
     border-top: .4em solid #4aaaa5;
 }
 /* Custom Gallery */
+.link-fix {
+    padding: 0;
+    border: none;
+    color: #ffffff;
+    white-space: normal;
+}
+.link-fix:hover{
+    opacity: 0.5;
+    color:#ffffff;
+}
 .image-custom {
     display: inline;
     position: absolute;
