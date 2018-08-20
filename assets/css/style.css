@@ -65,6 +65,9 @@ body {
     opacity: 0.5;
     color:#ffffff;
 }
+.img-custom {
+    border: 1px solid #dddddd;
+}
 .image-custom {
     display: inline;
     position: absolute;
