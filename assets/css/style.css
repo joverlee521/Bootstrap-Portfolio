@@ -15,7 +15,7 @@ body {
     padding: 1.3em;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff !important;
-    background-color: #4aaaa5;
+    background-color: #d9b3ff;
 }
 
 .navbar-custom {
@@ -39,7 +39,7 @@ body {
 .title-custom {
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-bottom: 2px solid #dddddd;
-    color: #4aaaa5;
+    color: #d9b3ff;
 }
 .profile-custom {
     max-width: 50%;
@@ -52,7 +52,7 @@ body {
     right: 0;
     bottom: 0;
     background-color: #666666;
-    border-top: .4em solid #4aaaa5;
+    border-top: .4em solid #d9b3ff;
 }
 /* Custom Gallery */
 .link-fix {
@@ -76,18 +76,18 @@ body {
     margin: 0;
     padding: 3%;
     width: 100%;
-    background: #4aaaa5;
+    background: #d9b3ff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: normal;  
 }
 /* Custom Form */
 .button-custom {
-    background: #4aaaa5;
+    background: #d9b3ff;
     color: #ffffff;
-    border: 1px solid #4aaaa5;
+    border: 1px solid #d9b3ff;
 }
 
 .button-custom:hover {
     background-color: #ffffff;
-    color: #4aaaa5;
+    color: #d9b3ff;
 }
